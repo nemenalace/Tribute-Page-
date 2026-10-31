@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title id="title">Chadwick Boseman tribute</title>
+    <link href="./styles.css" rel="stylesheet">
+  </head> 
+  <body>
+    <main id="main">
+      <figure class="image">
+        <header class="header">
+        <h1 class="h1" id="title">Chadwick Boseman</h1>
+        </header>
+        <figure id="img-div">
+        <img id="image" class="image" src="https://images.hdqwalls.com/wallpapers/chadwick-boseman-4k-6q.jpg"/>
+        <figcaption id="img-caption" id="img-div"/>
+        <p id="title">The man who left an impact</p>
+      </figure>
+      <div>
+      <header><b>Chadwick Boseman</b></header>
+      <p id="tribute-info">Chadwick Boseman wrote his first play after a teammate of his was shot and killed. Giving him a passion for playwriting. </p>
+      <p>He attended Howard University to study directing. During his time there, he took acting classes in the summer program at the University of Oxford.</p>
+      <p>His first performance was "Rhyme Deferred" where he also co-wrote the screen play. His next project he directed and wrote again was named "Hieroglyphic Graffti" That debuted in the national black theatre festival in 2001.</p>
+      <p>Around 2003. Boseman begun to appear on television with shows such as "Third Watch" as a guest appearence. His big films "The Express" and "42" playing as Jackie Robinson. With later films such as "Get on up" and his most iconic role in "Avengers: Civil war".      </p>
+      <p>The final role that Boseman played was in the film titled "Ma Rainey’s Black Bottom" he was awarded an Acadaemy award posthumously </p>
+<p>Click here for additional information about<a id="tribute-link" href="https://www.britannica.com/topic/Chadwick-Boseman" target="_blank"> Chadwick Boseman</a></p>
+
+    </main>
+  </body>
